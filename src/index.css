@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Add safe colors for PDF generation */
+:root {
+  --pdf-primary: #1e40af;
+  --pdf-text: #1f2937;
+  --pdf-border: #e5e7eb;
+  --pdf-background: #ffffff;
+}
